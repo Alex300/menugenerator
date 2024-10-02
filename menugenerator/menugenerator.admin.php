@@ -155,4 +155,4 @@ $tt->parse('MAIN.GENERAL');
 $tt->parse('MAIN.HELP');
 
 $tt->parse('MAIN');
-$plugin_body = $tt->text('MAIN');
+$pluginBody = $tt->text('MAIN');
